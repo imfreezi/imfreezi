@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hey!
+## I'm Freezi, if you didn't notice.
 
-<!--
-**imfreezi/imfreezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+github template cuz im l a z y:
+- 🔭 I’m currently working on my own <b> browser 🌎 </b>
+- 🌱 I’m currently learning <b> Python 🐍 </b>
+- 🤔 I’m looking for help with <b> QtWebEngine features 🔧 </b>
+- 💬 Ask me about <b> ANYTHING 👆 </b>
+- 📫 How to reach me: <b> shoot me a message at discord: @freezilol </b>
+- 😄 Pronouns: <b> any (preffered he/him) </b>
+- ⚡ Fun fact: <b> I'm only 14! </b>
